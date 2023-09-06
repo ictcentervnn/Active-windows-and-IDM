@@ -16,4 +16,4 @@
 # Active IDM
 * Với IDM nhập lệnh sau:
 > iex(irm is.gd/idm_reset)
-* Nhấn phím 1 để Kích Hoạt
+
