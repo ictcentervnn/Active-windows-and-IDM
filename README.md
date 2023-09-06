@@ -1,5 +1,5 @@
-# MAS
-# Hướng dẫn download và sử dụng công cụ MAS
+# MAS Active Window
+## Hướng dẫn download và sử dụng công cụ MAS
 ## Cách 1 - Sử dụng PowerSheell hoặc Terminal
 * Trên Windows 10/11, nhấp chuột phải vào Windows start menu và chọn Terminal hoặc Search và chọn PowerShell.
 * Sao chép đoạn code bên dưới và nhấn Enter.
@@ -13,3 +13,7 @@
 * Chạy tệp Online_KMS_Activation.cmd
 * Bạn sẽ thấy menu những tùy chọn kích hoạt và thực hiện theo hướng dẫn trên màn hình.
 * Vậy là xong việc kích hoạt Windows và Office.
+# Active IDM
+* Với IDM nhập lệnh sau:
+> iex(irm is.gd/idm_reset)
+*Nhấn phím 1 để Kích Hoạt
