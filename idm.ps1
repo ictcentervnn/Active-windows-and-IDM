@@ -3,7 +3,7 @@
 
 $DownloadURL = 'https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/idm.cmd'
 
-$FilePath = "$env:TEMP\IAS.cmd"
+$FilePath = "$env:TEMP\idm.cmd"
 
 try {
     Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath
