@@ -15,5 +15,5 @@
 * Vậy là xong việc kích hoạt Windows và Office.
 # Active IDM
 * Với IDM nhập lệnh sau:
-> iex(irm is.gd/idm_reset)
+> iex(irm https://raw.githubusercontent.com/ictcentervnn/CMD-Win_IDM/main/active_idm.ps)
 
