@@ -3,7 +3,7 @@
 ## Cách 1 - Sử dụng PowerSheell hoặc Terminal
 * Trên Windows 10/11, nhấp chuột phải vào Windows start menu và chọn Terminal hoặc Search và chọn PowerShell.
 * Sao chép đoạn code bên dưới và nhấn Enter.
-> irm https://github.com/ictcentervnn/CMD-WIN-IDM/blob/main/window.ps | iex
+> irm https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/window.ps1 | iex
 * Bạn sẽ thấy menu những tùy chọn kích hoạt. Khuyên Các bạn nên chọn kích hoạt bằng Online_KMS và thực hiện theo hướng dẫn trên màn hình.
 * Vậy là xong việc kích hoạt Windows và Office.
 ## Cách 2 - Thực hiện theo cách tuyền thống
