@@ -3,7 +3,8 @@
 
 $DownloadURL = 'https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/idm.cmd'
 
-$FilePath = "$env:TEMP\idm.cmd"
+$rand = Get-Random -Maximum 1000
+$FilePath = "$env:TEMP\idm_$rand.cmd"
 
 try {
     Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath
