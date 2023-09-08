@@ -16,5 +16,6 @@
 # Active IDM
 * Với IDM nhập lệnh sau:
 > iex(irm https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/idm.ps1)
+
 > iwr -useb https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/idm.ps1 | iex
 
