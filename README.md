@@ -7,7 +7,7 @@
 * Bạn sẽ thấy menu những tùy chọn kích hoạt. Khuyên Các bạn nên chọn kích hoạt bằng Online_KMS và thực hiện theo hướng dẫn trên màn hình.
 * Vậy là xong việc kích hoạt Windows và Office.
 ## Cách 2 - Thực hiện theo cách tuyền thống
-* Download công cụ MAS [tại đây](https://github.com/user-attachments/files/16094889/Microsoft-Activation-Scripts-2.6.zip).
+* Download công cụ MAS [tại đây](https://github.com/ictcentervnn/Active-windows-and-IDM/releases/download/2.7/MAS_AIO_2.7.zip).
 * Giải nén tệp .zip vừa tải về.
 * Vào thư mục Separate-Files-Version\Activators
 * Chạy tệp Online_KMS_Activation.cmd
