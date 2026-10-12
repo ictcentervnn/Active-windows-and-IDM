@@ -49,7 +49,7 @@ if (-not $args) {
     try { [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12 } catch {}
 
     $URLs = @(
-        'https://raw.githubusercontent.com/ictcentervnn/Active-windows-and-IDM/refs/heads/main/MAS_AIO_3.11.cmd'
+        'https://raw.githubusercontent.com/ictcentervnn/Active-windows-and-IDM/refs/heads/main/MAS_AIO.cmd'
     )
     Write-Progress -Activity "Downloading..." -Status "Please wait"
     $errors = @()
